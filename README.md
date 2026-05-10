@@ -24,11 +24,11 @@ I create modern websites, UI interfaces and web experiences.
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/@Vladgut">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sonikstudio">
+<a href="https://github.com/Sonik-studio">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -45,17 +45,6 @@ I create modern websites, UI interfaces and web experiences.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonikstudio&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikstudio&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🔥 Current Focus
 
